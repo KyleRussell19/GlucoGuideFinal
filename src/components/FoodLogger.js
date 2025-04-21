@@ -22,7 +22,6 @@ export default function FoodLogger({ userId }) {
   const [error, setError] = useState("");
   const [message, setMessage] = useState("");
 
-  // Load user's thresholds (just for UI feedback if you like)
   const [minThreshold, setMinThreshold] = useState(70);
   const [maxThreshold, setMaxThreshold] = useState(180);
 
@@ -56,7 +55,6 @@ export default function FoodLogger({ userId }) {
     try {
       const glucoseInt = parseInt(glucoseValue, 10);
 
-      // Write the log; Cloud Function will trigger email if > targetMax
       await addDoc(collection(db, "users", userId, "food_logs"), {
         food_name: foodName,
         glucose_value: glucoseInt,
