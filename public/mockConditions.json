@@ -1,0 +1,15 @@
+{
+    "entry": [
+      {
+        "resource": {
+          "code": { "text": "Type 2 Diabetes Mellitus" }
+        }
+      },
+      {
+        "resource": {
+          "code": { "text": "Hypertension" }
+        }
+      }
+    ]
+  }
+  

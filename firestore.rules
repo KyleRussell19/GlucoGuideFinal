@@ -1,0 +1,22 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Only authenticated users can see or write their own user docs
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+
+      // Subcollections like /users/{userId}/food_logs or user_logs
+      match /{document=**} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+    }
+
+    // Optional: If you have a "food_options" collection for public read
+    match /food_options/{docId} {
+      allow read: if true;  // everyone can read
+      allow write: if false; // or limit to admins only
+    }
+  }
+}

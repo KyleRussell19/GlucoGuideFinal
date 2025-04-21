@@ -1,0 +1,402 @@
+[
+    {
+        "food_name": "Apple",
+        "glucose_value": 37
+    },
+    {
+        "food_name": "Banana",
+        "glucose_value": 43
+    },
+    {
+        "food_name": "Orange",
+        "glucose_value": 29
+    },
+    {
+        "food_name": "Grapes",
+        "glucose_value": 46
+    },
+    {
+        "food_name": "Watermelon",
+        "glucose_value": 15
+    },
+    {
+        "food_name": "Strawberry",
+        "glucose_value": 12
+    },
+    {
+        "food_name": "Blueberry",
+        "glucose_value": 11
+    },
+    {
+        "food_name": "Mango",
+        "glucose_value": 39
+    },
+    {
+        "food_name": "Pineapple",
+        "glucose_value": 30
+    },
+    {
+        "food_name": "Cherry",
+        "glucose_value": 10
+    },
+    {
+        "food_name": "Pear",
+        "glucose_value": 40
+    },
+    {
+        "food_name": "Peach",
+        "glucose_value": 24
+    },
+    {
+        "food_name": "Plum",
+        "glucose_value": 44
+    },
+    {
+        "food_name": "Kiwi",
+        "glucose_value": 41
+    },
+    {
+        "food_name": "Lemon",
+        "glucose_value": 50
+    },
+    {
+        "food_name": "Lime",
+        "glucose_value": 48
+    },
+    {
+        "food_name": "Coconut",
+        "glucose_value": 35
+    },
+    {
+        "food_name": "Pomegranate",
+        "glucose_value": 20
+    },
+    {
+        "food_name": "Fig",
+        "glucose_value": 31
+    },
+    {
+        "food_name": "Dates",
+        "glucose_value": 15
+    },
+    {
+        "food_name": "Carrot",
+        "glucose_value": 50
+    },
+    {
+        "food_name": "Broccoli",
+        "glucose_value": 37
+    },
+    {
+        "food_name": "Spinach",
+        "glucose_value": 35
+    },
+    {
+        "food_name": "Lettuce",
+        "glucose_value": 26
+    },
+    {
+        "food_name": "Tomato",
+        "glucose_value": 29
+    },
+    {
+        "food_name": "Cucumber",
+        "glucose_value": 25
+    },
+    {
+        "food_name": "Bell Pepper",
+        "glucose_value": 50
+    },
+    {
+        "food_name": "Potato",
+        "glucose_value": 44
+    },
+    {
+        "food_name": "Sweet Potato",
+        "glucose_value": 36
+    },
+    {
+        "food_name": "Pumpkin",
+        "glucose_value": 38
+    },
+    {
+        "food_name": "Corn",
+        "glucose_value": 39
+    },
+    {
+        "food_name": "Green Beans",
+        "glucose_value": 29
+    },
+    {
+        "food_name": "Peas",
+        "glucose_value": 10
+    },
+    {
+        "food_name": "Zucchini",
+        "glucose_value": 16
+    },
+    {
+        "food_name": "Eggplant",
+        "glucose_value": 22
+    },
+    {
+        "food_name": "Mushroom",
+        "glucose_value": 35
+    },
+    {
+        "food_name": "Onion",
+        "glucose_value": 5
+    },
+    {
+        "food_name": "Garlic",
+        "glucose_value": 10
+    },
+    {
+        "food_name": "Celery",
+        "glucose_value": 46
+    },
+    {
+        "food_name": "Cabbage",
+        "glucose_value": 22
+    },
+    {
+        "food_name": "Rice",
+        "glucose_value": 24
+    },
+    {
+        "food_name": "Brown Rice",
+        "glucose_value": 25
+    },
+    {
+        "food_name": "Pasta",
+        "glucose_value": 45
+    },
+    {
+        "food_name": "Whole Wheat Bread",
+        "glucose_value": 37
+    },
+    {
+        "food_name": "White Bread",
+        "glucose_value": 43
+    },
+    {
+        "food_name": "Bagel",
+        "glucose_value": 23
+    },
+    {
+        "food_name": "Croissant",
+        "glucose_value": 33
+    },
+    {
+        "food_name": "Muffin",
+        "glucose_value": 39
+    },
+    {
+        "food_name": "Pancakes",
+        "glucose_value": 26
+    },
+    {
+        "food_name": "Waffles",
+        "glucose_value": 20
+    },
+    {
+        "food_name": "Eggs",
+        "glucose_value": 24
+    },
+    {
+        "food_name": "Scrambled Eggs",
+        "glucose_value": 29
+    },
+    {
+        "food_name": "Omelette",
+        "glucose_value": 11
+    },
+    {
+        "food_name": "Fried Eggs",
+        "glucose_value": 10
+    },
+    {
+        "food_name": "Boiled Eggs",
+        "glucose_value": 48
+    },
+    {
+        "food_name": "Cheese",
+        "glucose_value": 12
+    },
+    {
+        "food_name": "Milk",
+        "glucose_value": 13
+    },
+    {
+        "food_name": "Yogurt",
+        "glucose_value": 5
+    },
+    {
+        "food_name": "Butter",
+        "glucose_value": 26
+    },
+    {
+        "food_name": "Cream Cheese",
+        "glucose_value": 12
+    },
+    {
+        "food_name": "Chicken Breast",
+        "glucose_value": 13
+    },
+    {
+        "food_name": "Grilled Chicken",
+        "glucose_value": 20
+    },
+    {
+        "food_name": "Fried Chicken",
+        "glucose_value": 13
+    },
+    {
+        "food_name": "Chicken Nuggets",
+        "glucose_value": 38
+    },
+    {
+        "food_name": "Steak",
+        "glucose_value": 37
+    },
+    {
+        "food_name": "Beef Burger",
+        "glucose_value": 46
+    },
+    {
+        "food_name": "Cheeseburger",
+        "glucose_value": 27
+    },
+    {
+        "food_name": "Hot Dog",
+        "glucose_value": 6
+    },
+    {
+        "food_name": "Bacon",
+        "glucose_value": 50
+    },
+    {
+        "food_name": "Sausage",
+        "glucose_value": 45
+    },
+    {
+        "food_name": "Salmon",
+        "glucose_value": 30
+    },
+    {
+        "food_name": "Tuna",
+        "glucose_value": 20
+    },
+    {
+        "food_name": "Shrimp",
+        "glucose_value": 29
+    },
+    {
+        "food_name": "Crab",
+        "glucose_value": 44
+    },
+    {
+        "food_name": "Lobster",
+        "glucose_value": 29
+    },
+    {
+        "food_name": "Sushi",
+        "glucose_value": 17
+    },
+    {
+        "food_name": "Clams",
+        "glucose_value": 32
+    },
+    {
+        "food_name": "Oysters",
+        "glucose_value": 33
+    },
+    {
+        "food_name": "Cod",
+        "glucose_value": 45
+    },
+    {
+        "food_name": "Tilapia",
+        "glucose_value": 34
+    },
+    {
+        "food_name": "French Fries",
+        "glucose_value": 20
+    },
+    {
+        "food_name": "Potato Chips",
+        "glucose_value": 8
+    },
+    {
+        "food_name": "Popcorn",
+        "glucose_value": 18
+    },
+    {
+        "food_name": "Pretzels",
+        "glucose_value": 14
+    },
+    {
+        "food_name": "Chocolate",
+        "glucose_value": 44
+    },
+    {
+        "food_name": "Cookies",
+        "glucose_value": 44
+    },
+    {
+        "food_name": "Brownies",
+        "glucose_value": 49
+    },
+    {
+        "food_name": "Cake",
+        "glucose_value": 42
+    },
+    {
+        "food_name": "Pie",
+        "glucose_value": 16
+    },
+    {
+        "food_name": "Ice Cream",
+        "glucose_value": 29
+    },
+    {
+        "food_name": "Peanut Butter",
+        "glucose_value": 34
+    },
+    {
+        "food_name": "Almond Butter",
+        "glucose_value": 21
+    },
+    {
+        "food_name": "Hummus",
+        "glucose_value": 38
+    },
+    {
+        "food_name": "Nuts",
+        "glucose_value": 28
+    },
+    {
+        "food_name": "Trail Mix",
+        "glucose_value": 40
+    },
+    {
+        "food_name": "Protein Bar",
+        "glucose_value": 41
+    },
+    {
+        "food_name": "Granola",
+        "glucose_value": 26
+    },
+    {
+        "food_name": "Energy Drink",
+        "glucose_value": 29
+    },
+    {
+        "food_name": "Soda",
+        "glucose_value": 31
+    },
+    {
+        "food_name": "Coffee",
+        "glucose_value": 25
+    }
+]
